@@ -1,41 +1,48 @@
-<h1 align="center">Hi, I'm vc999999999 👋</h1>
+<h1 align="center">vc999999999 // Cyber Builder</h1>
+
 <p align="center">
-  neither humble nor arrogant · Build useful things with code
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Neither%20Humble%20Nor%20Arrogant&fontAlign=50&fontAlignY=35&color=0:00f5ff,50:7a5cff,100:00ffa3&fontColor=0b1020" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=760&lines=%E4%B8%93%E6%B3%A8%E6%9C%89%E4%BB%B7%E5%80%BC%E7%9A%84%E9%A1%B9%E7%9B%AE+%2F+Building+useful+projects;AI+Tools+%7C+Automation+%7C+Engineering;Keep+shipping%2C+keep+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=00F5FF&center=true&vCenter=true&width=820&lines=%E5%81%9A%E6%9C%89%E5%86%B2%E5%87%BB%E5%8A%9B%E7%9A%84%E4%BD%9C%E5%93%81+%2F+Build+projects+that+matter;AI+Tools+%7C+Automation+%7C+Engineering;Keep+shipping%2C+keep+learning%2C+keep+creating." alt="typing" />
 </p>
 
-## About Me / 关于我
-- 中文：专注把想法快速落地成可用产品，偏好简洁、稳定、可持续维护的工程方案。
-- EN: I turn ideas into usable products with a focus on simplicity, stability, and long-term maintainability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00f5ff?style=for-the-badge&logo=github&logoColor=black" alt="status" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tooling-7a5cff?style=for-the-badge&logo=openai&logoColor=white" alt="focus" />
+  <img src="https://img.shields.io/badge/Mode-Creator%20Lite-00ffa3?style=for-the-badge&logo=vercel&logoColor=black" alt="mode" />
+</p>
+
+## About / 关于我
+- 中文：我专注把想法快速变成可用产品，偏好简洁、稳定、可持续维护的工程方案。
+- EN: I turn ideas into practical products with a focus on simplicity, reliability, and maintainability.
 
 ## Featured Projects / 重点项目
 - [ai-news-skill](https://github.com/vc999999999/ai-news-skill)
-  - 中文：聚合并筛选 AI 资讯的技能化工具链。
-  - EN: A skill-oriented pipeline for aggregating and ranking AI news.
-
-- [Project Coming Soon](https://github.com/vc999999999)
-  - 中文：正在构建中。
-  - EN: In progress.
-
-- [Project Coming Soon](https://github.com/vc999999999)
-  - 中文：正在构建中。
-  - EN: In progress.
+  - 中文：多源 RSS 聚合、去重、AI 关键词筛选与加权排序，输出高质量 AI 资讯简报。
+  - EN: Multi-source RSS aggregation with deduplication, AI keyword filtering, weighted ranking, and digest output.
+- [Agent Toolkit](https://github.com/vc999999999)
+  - 中文：面向效率提升的智能代理工具集（开发中）。
+  - EN: A productivity-focused agent toolkit (in progress).
+- [Automation Lab](https://github.com/vc999999999)
+  - 中文：自动化实验与工作流模板（持续迭代）。
+  - EN: Automation experiments and workflow templates (iterating in public).
 
 ## Tech Stack / 技术栈
-`Python` `Pydantic` `LLM/Agents` `RSS Processing` `Automation`
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,git,github,docker,vscode&theme=dark" alt="stack" />
+</p>
 
 ## Current Focus / 当前专注
-- 中文：持续打磨 AI 工具链、自动化工作流与可复用技能模块。
-- EN: Improving AI tooling, automation workflows, and reusable skill modules.
+- 中文：AI 工具链、自动化工作流、可复用技能模块。
+- EN: AI tooling pipelines, automation workflows, and reusable skill modules.
 
-## GitHub Stats / 数据概览
+## Stats / 数据概览
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vc999999999&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vc999999999&show_icons=true&hide_border=true&title_color=00f5ff&icon_color=00ffa3&text_color=a5b4fc&bg_color=0d1117" alt="stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vc999999999&theme=dark&hide_border=true&ring=00f5ff&fire=00ffa3&currStreakLabel=7a5cff" alt="streak" />
 </p>
 
 ## Connect / 联系我
 - GitHub: https://github.com/vc999999999
-- Email: your-email@example.com
